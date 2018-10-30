@@ -16,3 +16,5 @@ Unity practice for materials and transformations
 6. Make the cylinder a green color.
 7. Save your scene
 8. you're done! 
+
+![](assignment_01-finished.png)
