@@ -17,4 +17,8 @@ Unity practice for materials and transformations
 7. Save your scene
 8. you're done! 
 
-![](assignment_01-finished.png)
+---
+
+## Example of a finished project
+
+![fit](assignment_01-finished.png)
